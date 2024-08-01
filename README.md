@@ -1,6 +1,6 @@
 ## Resumo Profissional:
 
-Atuo há 11 anos na área da Tecnologia e possuo experiência no desenvolvimento de software utilizando linguagens como JavaScript, TypeScript, React e Node.js. Além disso, possuo conhecimento em gerenciamento de banco de dados, trabalhando com MySQL, SQL Server, MongoDB, PostgreSQL e Firebird. Meu objetivo é continuar crescendo como profissional e contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
+Atuo há 14 anos na área da Tecnologia e possuo experiência no desenvolvimento de software utilizando linguagens como JavaScript, TypeScript, React e Node.js. Além disso, possuo conhecimento em gerenciamento de banco de dados, trabalhando com MySQL, SQL Server, MongoDB, PostgreSQL e Firebird. Meu objetivo é continuar crescendo como profissional e contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
 
 
 <div style="display: inline_block"><br>
